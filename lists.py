@@ -55,6 +55,12 @@ print sorted_atlanta_teams
 # this will make a copy of the array. it will not change the original
 # it will start at the Xth element and will stop at the yth
 
+# to delete and index you can use the remove method.
+# alternative to pop you provide the element instead of the index
+
+
+
+
 
 
 
