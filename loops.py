@@ -12,7 +12,7 @@
 #print a square
 i = "*"
 line = (i * 5)
-print line
+print(line\n)
 print line
 print line
 print line
@@ -25,7 +25,9 @@ for i in range(square)
 
 
 
-
+#Bonus Factor a number. given a number print its factors.
+(number)
+if number %
 
 
 
